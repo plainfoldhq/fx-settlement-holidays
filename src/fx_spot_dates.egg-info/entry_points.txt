@@ -1,2 +1,0 @@
-[console_scripts]
-fx-spot-dates = fx_spot_dates:cli
