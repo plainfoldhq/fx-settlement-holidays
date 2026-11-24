@@ -64,7 +64,7 @@ Future dates follow current rules; central banks and governments can add holiday
 
 The paid pack covers 2000-2050 (296 of 306 currency-years), a day-by-day business-day table per currency, spot value dates for all 15 pairs of these currencies, SQLite, JSON, .ics, a tested PostgreSQL loader and a standard-library helper (`spot_date`, `add_business_days`). $19: [buy on Polar](https://buy.polar.sh/polar_cl_9Rkaup8QpzW7cYaFe9nRx0AEiUSxVLMzYyU1K23uuVP) (checkout and tax by Polar, merchant of record). Also in the [All-Access yearly plan](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl) with every Plainfold data pack.
 
-More calendars: [stock exchange holidays](https://github.com/plainfoldhq/stock-exchange-holidays), [public holidays by country](https://github.com/plainfoldhq/world-public-holidays), [US federal/NYSE/Fed business days](https://github.com/plainfoldhq/us-federal-calendar). Reference pages: [plainfoldhq.github.io](https://plainfoldhq.github.io/).
+More calendars: [options expiration dates](https://github.com/plainfoldhq/options-expiration-dates), [stock exchange holidays](https://github.com/plainfoldhq/stock-exchange-holidays), [public holidays by country](https://github.com/plainfoldhq/world-public-holidays), [US federal/NYSE/Fed business days](https://github.com/plainfoldhq/us-federal-calendar). Reference pages: [plainfoldhq.github.io](https://plainfoldhq.github.io/).
 
 ## License
 
