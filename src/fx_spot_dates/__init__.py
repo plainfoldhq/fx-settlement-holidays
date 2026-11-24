@@ -20,7 +20,7 @@ import csv
 import os
 from datetime import date, timedelta
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __all__ = ["CURRENCIES", "NotCovered", "is_business_day", "add_business_days", "spot_date", "holidays"]
 
 _DATA = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")

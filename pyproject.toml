@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "fx-spot-dates"
-version = "0.1.0"
+version = "0.1.1"
 description = "FX settlement holidays and T+2 spot value dates for USD, EUR (TARGET2), GBP, JPY, AUD, NZD. Standard library only."
 readme = "README.md"
 license = "MIT"

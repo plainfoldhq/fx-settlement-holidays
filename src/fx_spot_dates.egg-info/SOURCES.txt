@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+src/fx_spot_dates/__init__.py
+src/fx_spot_dates/__main__.py
+src/fx_spot_dates.egg-info/PKG-INFO
+src/fx_spot_dates.egg-info/SOURCES.txt
+src/fx_spot_dates.egg-info/dependency_links.txt
+src/fx_spot_dates.egg-info/entry_points.txt
+src/fx_spot_dates.egg-info/top_level.txt
+src/fx_spot_dates/data/coverage_2026_2028.csv
+src/fx_spot_dates/data/settlement_holidays_2026_2028.csv
+tests/test_data.py
+tests/test_package.py

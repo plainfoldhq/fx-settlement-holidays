@@ -22,7 +22,7 @@ fx.is_business_day("USD", "2026-07-03")  # True: the Fed does not close the Frid
 fx.add_business_days(["EUR", "GBP"], "2026-12-23", 2)
 ```
 
-Install: `pip install "git+https://github.com/plainfoldhq/fx-settlement-holidays"` (a PyPI release is pending).
+Install: `pip install fx-spot-dates` (PyPI: https://pypi.org/project/fx-spot-dates/).
 
 ## Files
 
