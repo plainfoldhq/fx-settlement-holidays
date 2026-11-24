@@ -1,0 +1,163 @@
+date,weekday,currency,calendar,holiday
+2026-01-01,Thu,USD,Federal Reserve (Fedwire) holidays,New Year's Day
+2026-01-01,Thu,EUR,TARGET2 / T2 closing days,New Year's Day
+2026-01-01,Thu,GBP,"England and Wales bank holidays (CHAPS, Bacs)",New Year's Day
+2026-01-01,Thu,JPY,Japan bank holidays,Bank Holiday; New Year's Day
+2026-01-01,Thu,NZD,New Zealand holidays incl. Wellington Anniversary,New Year's Day
+2026-01-02,Fri,JPY,Japan bank holidays,Bank Holiday
+2026-01-02,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Day after New Year's Day
+2026-01-12,Mon,JPY,Japan bank holidays,Coming of Age Day
+2026-01-19,Mon,USD,Federal Reserve (Fedwire) holidays,"Birthday of Martin Luther King, Jr."
+2026-01-19,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Wellington Anniversary Day
+2026-02-06,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Waitangi Day
+2026-02-11,Wed,JPY,Japan bank holidays,Foundation Day
+2026-02-16,Mon,USD,Federal Reserve (Fedwire) holidays,Washington's Birthday
+2026-02-23,Mon,JPY,Japan bank holidays,Emperor's Birthday
+2026-03-20,Fri,JPY,Japan bank holidays,Vernal Equinox Day
+2026-04-03,Fri,EUR,TARGET2 / T2 closing days,Good Friday
+2026-04-03,Fri,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Good Friday
+2026-04-03,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Good Friday
+2026-04-06,Mon,EUR,TARGET2 / T2 closing days,Easter Monday
+2026-04-06,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Easter Monday
+2026-04-06,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Easter Monday
+2026-04-27,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Anzac Day (observed)
+2026-04-29,Wed,JPY,Japan bank holidays,Showa Day
+2026-05-01,Fri,EUR,TARGET2 / T2 closing days,Labour Day
+2026-05-04,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",May Day
+2026-05-04,Mon,JPY,Japan bank holidays,Greenery Day
+2026-05-05,Tue,JPY,Japan bank holidays,Children's Day
+2026-05-06,Wed,JPY,Japan bank holidays,Substitute Holiday
+2026-05-25,Mon,USD,Federal Reserve (Fedwire) holidays,Memorial Day
+2026-05-25,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Spring Bank Holiday
+2026-06-01,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,King's Birthday
+2026-06-19,Fri,USD,Federal Reserve (Fedwire) holidays,Juneteenth National Independence Day
+2026-07-10,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Matariki
+2026-07-20,Mon,JPY,Japan bank holidays,Marine Day
+2026-08-11,Tue,JPY,Japan bank holidays,Mountain Day
+2026-08-31,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Late Summer Bank Holiday
+2026-09-07,Mon,USD,Federal Reserve (Fedwire) holidays,Labor Day
+2026-09-21,Mon,JPY,Japan bank holidays,Respect for the Aged Day
+2026-09-22,Tue,JPY,Japan bank holidays,National Holiday
+2026-09-23,Wed,JPY,Japan bank holidays,Autumnal Equinox Day
+2026-10-12,Mon,USD,Federal Reserve (Fedwire) holidays,Columbus Day
+2026-10-12,Mon,JPY,Japan bank holidays,Sports Day
+2026-10-26,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Labour Day
+2026-11-03,Tue,JPY,Japan bank holidays,Culture Day
+2026-11-11,Wed,USD,Federal Reserve (Fedwire) holidays,Veterans Day
+2026-11-23,Mon,JPY,Japan bank holidays,Labor Thanksgiving Day
+2026-11-26,Thu,USD,Federal Reserve (Fedwire) holidays,Thanksgiving Day
+2026-12-25,Fri,USD,Federal Reserve (Fedwire) holidays,Christmas Day
+2026-12-25,Fri,EUR,TARGET2 / T2 closing days,Christmas Day
+2026-12-25,Fri,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Christmas Day
+2026-12-25,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Christmas Day
+2026-12-28,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Boxing Day (observed)
+2026-12-28,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Boxing Day (observed)
+2026-12-31,Thu,JPY,Japan bank holidays,Bank Holiday
+2027-01-01,Fri,USD,Federal Reserve (Fedwire) holidays,New Year's Day
+2027-01-01,Fri,EUR,TARGET2 / T2 closing days,New Year's Day
+2027-01-01,Fri,GBP,"England and Wales bank holidays (CHAPS, Bacs)",New Year's Day
+2027-01-01,Fri,JPY,Japan bank holidays,Bank Holiday; New Year's Day
+2027-01-01,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,New Year's Day
+2027-01-04,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Day after New Year's Day (observed)
+2027-01-11,Mon,JPY,Japan bank holidays,Coming of Age Day
+2027-01-18,Mon,USD,Federal Reserve (Fedwire) holidays,"Birthday of Martin Luther King, Jr."
+2027-01-25,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Wellington Anniversary Day
+2027-02-08,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Waitangi Day (observed)
+2027-02-11,Thu,JPY,Japan bank holidays,Foundation Day
+2027-02-15,Mon,USD,Federal Reserve (Fedwire) holidays,Washington's Birthday
+2027-02-23,Tue,JPY,Japan bank holidays,Emperor's Birthday
+2027-03-22,Mon,JPY,Japan bank holidays,Substitute Holiday
+2027-03-26,Fri,EUR,TARGET2 / T2 closing days,Good Friday
+2027-03-26,Fri,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Good Friday
+2027-03-26,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Good Friday
+2027-03-29,Mon,EUR,TARGET2 / T2 closing days,Easter Monday
+2027-03-29,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Easter Monday
+2027-03-29,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Easter Monday
+2027-04-26,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Anzac Day (observed)
+2027-04-29,Thu,JPY,Japan bank holidays,Showa Day
+2027-05-03,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",May Day
+2027-05-03,Mon,JPY,Japan bank holidays,Constitution Day
+2027-05-04,Tue,JPY,Japan bank holidays,Greenery Day
+2027-05-05,Wed,JPY,Japan bank holidays,Children's Day
+2027-05-31,Mon,USD,Federal Reserve (Fedwire) holidays,Memorial Day
+2027-05-31,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Spring Bank Holiday
+2027-06-07,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,King's Birthday
+2027-06-25,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Matariki
+2027-07-05,Mon,USD,Federal Reserve (Fedwire) holidays,Independence Day (observed)
+2027-07-19,Mon,JPY,Japan bank holidays,Marine Day
+2027-08-11,Wed,JPY,Japan bank holidays,Mountain Day
+2027-08-30,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Late Summer Bank Holiday
+2027-09-06,Mon,USD,Federal Reserve (Fedwire) holidays,Labor Day
+2027-09-20,Mon,JPY,Japan bank holidays,Respect for the Aged Day
+2027-09-23,Thu,JPY,Japan bank holidays,Autumnal Equinox Day
+2027-10-11,Mon,USD,Federal Reserve (Fedwire) holidays,Columbus Day
+2027-10-11,Mon,JPY,Japan bank holidays,Sports Day
+2027-10-25,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Labour Day
+2027-11-03,Wed,JPY,Japan bank holidays,Culture Day
+2027-11-11,Thu,USD,Federal Reserve (Fedwire) holidays,Veterans Day
+2027-11-23,Tue,JPY,Japan bank holidays,Labor Thanksgiving Day
+2027-11-25,Thu,USD,Federal Reserve (Fedwire) holidays,Thanksgiving Day
+2027-12-27,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Christmas Day (observed)
+2027-12-27,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Christmas Day (observed)
+2027-12-28,Tue,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Boxing Day (observed)
+2027-12-28,Tue,NZD,New Zealand holidays incl. Wellington Anniversary,Boxing Day (observed)
+2027-12-31,Fri,JPY,Japan bank holidays,Bank Holiday
+2028-01-03,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",New Year's Day (observed)
+2028-01-03,Mon,JPY,Japan bank holidays,Bank Holiday
+2028-01-03,Mon,AUD,New South Wales bank holidays (Sydney),New Year's Day (observed)
+2028-01-03,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,New Year's Day (observed)
+2028-01-04,Tue,NZD,New Zealand holidays incl. Wellington Anniversary,Day after New Year's Day (observed)
+2028-01-10,Mon,JPY,Japan bank holidays,Coming of Age Day
+2028-01-17,Mon,USD,Federal Reserve (Fedwire) holidays,"Birthday of Martin Luther King, Jr."
+2028-01-24,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Wellington Anniversary Day
+2028-01-26,Wed,AUD,New South Wales bank holidays (Sydney),Australia Day
+2028-02-07,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Waitangi Day (observed)
+2028-02-11,Fri,JPY,Japan bank holidays,Foundation Day
+2028-02-21,Mon,USD,Federal Reserve (Fedwire) holidays,Washington's Birthday
+2028-02-23,Wed,JPY,Japan bank holidays,Emperor's Birthday
+2028-03-20,Mon,JPY,Japan bank holidays,Vernal Equinox Day
+2028-04-14,Fri,EUR,TARGET2 / T2 closing days,Good Friday
+2028-04-14,Fri,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Good Friday
+2028-04-14,Fri,AUD,New South Wales bank holidays (Sydney),Good Friday
+2028-04-14,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Good Friday
+2028-04-17,Mon,EUR,TARGET2 / T2 closing days,Easter Monday
+2028-04-17,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Easter Monday
+2028-04-17,Mon,AUD,New South Wales bank holidays (Sydney),Easter Monday
+2028-04-17,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Easter Monday
+2028-04-25,Tue,AUD,New South Wales bank holidays (Sydney),ANZAC Day
+2028-04-25,Tue,NZD,New Zealand holidays incl. Wellington Anniversary,Anzac Day
+2028-05-01,Mon,EUR,TARGET2 / T2 closing days,Labour Day
+2028-05-01,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",May Day
+2028-05-03,Wed,JPY,Japan bank holidays,Constitution Day
+2028-05-04,Thu,JPY,Japan bank holidays,Greenery Day
+2028-05-05,Fri,JPY,Japan bank holidays,Children's Day
+2028-05-29,Mon,USD,Federal Reserve (Fedwire) holidays,Memorial Day
+2028-05-29,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Spring Bank Holiday
+2028-06-05,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,King's Birthday
+2028-06-12,Mon,AUD,New South Wales bank holidays (Sydney),King's Birthday
+2028-06-19,Mon,USD,Federal Reserve (Fedwire) holidays,Juneteenth National Independence Day
+2028-07-04,Tue,USD,Federal Reserve (Fedwire) holidays,Independence Day
+2028-07-14,Fri,NZD,New Zealand holidays incl. Wellington Anniversary,Matariki
+2028-07-17,Mon,JPY,Japan bank holidays,Marine Day
+2028-08-07,Mon,AUD,New South Wales bank holidays (Sydney),Bank Holiday
+2028-08-11,Fri,JPY,Japan bank holidays,Mountain Day
+2028-08-28,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Late Summer Bank Holiday
+2028-09-04,Mon,USD,Federal Reserve (Fedwire) holidays,Labor Day
+2028-09-18,Mon,JPY,Japan bank holidays,Respect for the Aged Day
+2028-09-22,Fri,JPY,Japan bank holidays,Autumnal Equinox Day
+2028-10-02,Mon,AUD,New South Wales bank holidays (Sydney),Labor Day
+2028-10-09,Mon,USD,Federal Reserve (Fedwire) holidays,Columbus Day
+2028-10-09,Mon,JPY,Japan bank holidays,Sports Day
+2028-10-23,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Labour Day
+2028-11-03,Fri,JPY,Japan bank holidays,Culture Day
+2028-11-23,Thu,USD,Federal Reserve (Fedwire) holidays,Thanksgiving Day
+2028-11-23,Thu,JPY,Japan bank holidays,Labor Thanksgiving Day
+2028-12-25,Mon,USD,Federal Reserve (Fedwire) holidays,Christmas Day
+2028-12-25,Mon,EUR,TARGET2 / T2 closing days,Christmas Day
+2028-12-25,Mon,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Christmas Day
+2028-12-25,Mon,AUD,New South Wales bank holidays (Sydney),Christmas Day
+2028-12-25,Mon,NZD,New Zealand holidays incl. Wellington Anniversary,Christmas Day
+2028-12-26,Tue,EUR,TARGET2 / T2 closing days,Christmas Holiday
+2028-12-26,Tue,GBP,"England and Wales bank holidays (CHAPS, Bacs)",Boxing Day
+2028-12-26,Tue,AUD,New South Wales bank holidays (Sydney),Boxing Day
+2028-12-26,Tue,NZD,New Zealand holidays incl. Wellington Anniversary,Boxing Day

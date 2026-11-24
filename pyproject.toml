@@ -1,0 +1,32 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fx-spot-dates"
+version = "0.1.0"
+description = "FX settlement holidays and T+2 spot value dates for USD, EUR (TARGET2), GBP, JPY, AUD, NZD. Standard library only."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.9"
+authors = [{ name = "Plainfold", email = "plainfoldhq@proton.me" }]
+keywords = ["fx", "spot date", "value date", "settlement", "target2", "business days", "holidays", "forex", "fedwire"]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "Intended Audience :: Developers",
+  "Intended Audience :: Financial and Insurance Industry",
+  "Topic :: Office/Business :: Financial",
+]
+
+[project.urls]
+Homepage = "https://github.com/plainfoldhq/fx-settlement-holidays"
+Documentation = "https://plainfoldhq.github.io/fx-settlement-holidays/"
+Source = "https://github.com/plainfoldhq/fx-settlement-holidays"
+Issues = "https://github.com/plainfoldhq/fx-settlement-holidays/issues"
+
+[project.scripts]
+fx-spot-dates = "fx_spot_dates:cli"
+
+[tool.setuptools.package-data]
+fx_spot_dates = ["data/*.csv"]

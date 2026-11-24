@@ -1,0 +1,19 @@
+currency,year,status,reason
+USD,2026,covered,
+USD,2027,covered,
+USD,2028,covered,
+EUR,2026,covered,
+EUR,2027,covered,
+EUR,2028,covered,
+GBP,2026,covered,
+GBP,2027,covered,
+GBP,2028,covered,
+JPY,2026,covered,
+JPY,2027,covered,
+JPY,2028,covered,
+AUD,2026,not_covered,sources disagree on 1 weekday(s): 2026-04-27
+AUD,2027,not_covered,sources disagree on 1 weekday(s): 2027-04-26
+AUD,2028,covered,
+NZD,2026,covered,
+NZD,2027,covered,
+NZD,2028,covered,

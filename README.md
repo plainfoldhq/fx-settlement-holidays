@@ -11,6 +11,19 @@ Free CSV files with the settlement holidays of six currencies for 2026, 2027 and
 | AUD | New South Wales bank holidays, Sydney only (2028 only here: see below) |
 | NZD | New Zealand holidays incl. Wellington Anniversary (Wellington only; Auckland Anniversary not included) |
 
+## Python package
+
+`fx-spot-dates` (standard library only) bundles the 2026-2028 calendars:
+
+```python
+import fx_spot_dates as fx
+fx.spot_date("USDJPY", "2026-12-29")   # datetime.date(2027, 1, 4)
+fx.is_business_day("USD", "2026-07-03")  # True: the Fed does not close the Friday before a Saturday holiday
+fx.add_business_days(["EUR", "GBP"], "2026-12-23", 2)
+```
+
+Install: `pip install "git+https://github.com/plainfoldhq/fx-settlement-holidays"` (a PyPI release is pending).
+
 ## Files
 
 `data/settlement_holidays_2026_2028.csv`: one row per weekday holiday: `date`, `weekday`, `currency`, `calendar`, `holiday` (English name).
