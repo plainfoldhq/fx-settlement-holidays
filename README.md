@@ -62,9 +62,11 @@ Future dates follow current rules; central banks and governments can add holiday
 
 ## Full pack: 2000-2050, 15 pairs
 
-The paid pack covers 2000-2050 (296 of 306 currency-years), a day-by-day business-day table per currency, spot value dates for all 15 pairs of these currencies, SQLite, JSON, .ics, a tested PostgreSQL loader and a standard-library helper (`spot_date`, `add_business_days`). $19: [buy on Polar](https://buy.polar.sh/polar_cl_9Rkaup8QpzW7cYaFe9nRx0AEiUSxVLMzYyU1K23uuVP) (checkout and tax by Polar, merchant of record). Also in the [All-Access yearly plan](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl) with every Plainfold data pack.
+The paid pack covers 2000-2050 (296 of 306 currency-years), a day-by-day business-day table per currency, spot value dates for all 15 pairs of these currencies, SQLite, JSON, .ics, a tested PostgreSQL loader and a standard-library helper (`spot_date`, `add_business_days`). $19: [buy on Polar](https://buy.polar.sh/polar_cl_9Rkaup8QpzW7cYaFe9nRx0AEiUSxVLMzYyU1K23uuVP?utm_source=readme&utm_medium=readme&utm_campaign=Q&utm_content=fx-settlement-holidays) (checkout and tax by Polar, merchant of record). Also in the [All-Access yearly plan](https://buy.polar.sh/polar_cl_xydfuofU72fdp6xSOHFtihAuniUFagYOwR9zf2M03Gl?utm_source=readme&utm_medium=readme&utm_campaign=ALLACCESS&utm_content=fx-settlement-holidays) with every Plainfold data pack.
 
 More calendars: [options expiration dates](https://github.com/plainfoldhq/options-expiration-dates), [stock exchange holidays](https://github.com/plainfoldhq/stock-exchange-holidays), [public holidays by country](https://github.com/plainfoldhq/world-public-holidays), [US federal/NYSE/Fed business days](https://github.com/plainfoldhq/us-federal-calendar). Reference pages: [plainfoldhq.github.io](https://plainfoldhq.github.io/).
+
+For SQL and tests: [dbt-business-days](https://github.com/plainfoldhq/dbt-business-days) (free dbt package: the USD, EUR, GBP, JPY and NZD calendars plus business-day macros, 2026-2028) and [business-day-conventions](https://github.com/plainfoldhq/business-day-conventions) (roll-convention and day-count test vectors, recomputed with QuantLib).
 
 ## License
 
