@@ -68,6 +68,10 @@ More calendars: [options expiration dates](https://github.com/plainfoldhq/option
 
 For SQL and tests: [dbt-business-days](https://github.com/plainfoldhq/dbt-business-days) (free dbt package: the USD, EUR, GBP, JPY and NZD calendars plus business-day macros, 2026-2028) and [business-day-conventions](https://github.com/plainfoldhq/business-day-conventions) (roll-convention and day-count test vectors, recomputed with QuantLib).
 
+## Related
+
+- [plainfoldhq/plainfold-calendars-mcp](https://github.com/plainfoldhq/plainfold-calendars-mcp): free MCP server that lets AI assistants (Claude, other MCP clients) check business days, market holidays and FX spot dates offline, built on this package; `pip install plainfold-calendars-mcp`.
+
 ## License
 
 Data in `data/`: CC0 1.0 (public domain). Tests: MIT. See LICENSE.
