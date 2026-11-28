@@ -11,6 +11,10 @@ Free CSV files with the settlement holidays of six currencies for 2026, 2027 and
 | AUD | New South Wales bank holidays, Sydney only (2028 only here: see below) |
 | NZD | New Zealand holidays incl. Wellington Anniversary (Wellington only; Auckland Anniversary not included) |
 
+## Guide
+
+- [How to calculate the FX spot date (T+2) in Python](https://github.com/plainfoldhq/fx-settlement-holidays/blob/main/docs/fx-spot-date-calculation-python.md): the USD day-1 rule, year-end examples and a QuantLib cross-check
+
 ## Python package
 
 `fx-spot-dates` (standard library only) bundles the 2026-2028 calendars:
